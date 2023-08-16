@@ -2,7 +2,10 @@
 
 This repository is an archive of all the PDF versions of Bitcoin Whitepaper in various languages - saved for posterity
 
-Some are taken from Bitcoin . org and some added from other sources
+Sources:
+- Bitcoin . org repository on Github
+- Exonumia . africa's doc section within Github
+- @jonassterud's similar repository on Github
 
 **Disclaimer**: The repo owner does not certify nor validate the quality of these translated whitepapers, nor do they claim any ownership over contents herein.
 
