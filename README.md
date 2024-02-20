@@ -2,6 +2,8 @@
 
 This repository is an archive of all the PDF versions of Bitcoin Whitepaper in various languages - saved for posterity
 
+Naming convention: [ISO 639-2 ](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes) for the two letter code that follows 'bitcoin_' in file names
+
 Sources:
 - [Bitcoin . org repository on Github](https://github.com/bitcoin-dot-org/Bitcoin.org)
 - [Exonumia . africa's doc section within Github](https://github.com/exonumia-cc/exonumia)
